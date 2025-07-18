@@ -43,7 +43,7 @@ Add a preview here if you'd like:
 
 ## 🔗 Live Demo
 
-👉 [Click here to try Coin Toss](https://workshopjavascript.github.io/Coin-Toss/)
+👉 [Click here to try Coin Toss](https://projectsjavascript.github.io/Coin-Toss/)
 
 ## 📁 Project Structure
 
