@@ -54,7 +54,7 @@ Ajoute ici un aperçu si tu veux :
 
 ## 🔗 Démo en ligne
 
-👉 [Clique ici pour essayer Coin Toss](https://workshopjavascript.github.io/Coin-Toss/)
+👉 [Clique ici pour essayer Coin Toss](https://projectsjavascript.github.io/Coin-Toss/)
 
 ## 📁 Structure du projet
 
